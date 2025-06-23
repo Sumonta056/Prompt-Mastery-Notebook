@@ -8,3 +8,4 @@
   * [Double Exposure Word Image](image-generation/double-exposure-word-image.md)
   * [Cinematic Water Potrait](image-generation/cinematic-water-potrait.md)
   * [Cyberpunk Developer Visualization](image-generation/cyberpunk-developer-visualization.md)
+* [Useful Resources](useful-resources.md)
